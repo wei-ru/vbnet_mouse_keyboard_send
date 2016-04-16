@@ -10,3 +10,7 @@ E:\Beichen\研究\外掛教學\hook\mouse_keyboard_send\mouse_keyboard_send\obj\
 E:\Beichen\研究\外掛教學\hook\mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.xml
 E:\Beichen\研究\外掛教學\hook\mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.pdb
 E:\Beichen\研究\外掛教學\hook\mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.Form2.resources
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\bin\Debug\mouse_keyboard_send.exe.config
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.exe
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.xml
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.pdb
