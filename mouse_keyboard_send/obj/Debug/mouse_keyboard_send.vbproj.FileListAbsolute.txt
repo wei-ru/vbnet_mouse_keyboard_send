@@ -14,3 +14,11 @@ E:\Beichen\研究\外掛教學\hook\mouse_keyboard_send\mouse_keyboard_send\obj\
 \\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.exe
 \\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.xml
 \\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.pdb
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\bin\Debug\mouse_keyboard_send.exe
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\bin\Debug\mouse_keyboard_send.pdb
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\bin\Debug\mouse_keyboard_send.xml
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.Form1.resources
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.Form2.resources
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.Resources.resources
+\\Mac\Home\Desktop\GitHub\vbnet_mouse_keyboard_send\mouse_keyboard_send\obj\Debug\mouse_keyboard_send.vbproj.GenerateResource.Cache
