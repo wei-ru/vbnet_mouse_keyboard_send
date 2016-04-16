@@ -180,12 +180,12 @@
 #End Region
 
 #Region "Keyboard Function"
-    Function BgKeyDown()
-
+    Function BgKeyDown(ByVal hWnd As IntPtr, ByVal key As Integer)
+        PostMessage(hWnd, WM_KEYDOWN, key, 0)
     End Function
 
-    Function BgKeyUp()
-
+    Function BgKeyUp(ByVal hWnd As IntPtr, ByVal key As Integer)
+        PostMessage(hWnd, WM_KEYUP, key, 0)
     End Function
 
     Function BgKeyChar()
